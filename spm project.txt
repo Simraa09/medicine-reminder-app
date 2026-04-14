@@ -1,0 +1,8 @@
+Medicine Reminder Mobile App
+
+This project helps users manage their medicines.
+
+Features:
+- Add medicines
+- Set reminders
+- Track dosage

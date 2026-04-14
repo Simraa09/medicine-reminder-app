@@ -6,3 +6,4 @@ Features:
 - Add medicines
 - Set reminders
 - Track dosage
+- User-friendly interface

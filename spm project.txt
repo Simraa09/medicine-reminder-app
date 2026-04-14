@@ -8,3 +8,4 @@ Features:
 - Track dosage
 - User-friendly interface
 - Notification system for reminders
+- Option to mark medicines as taken or skipped

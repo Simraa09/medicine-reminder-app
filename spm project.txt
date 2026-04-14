@@ -9,3 +9,5 @@ Features:
 - User-friendly interface
 - Notification system for reminders
 - Option to mark medicines as taken or skipped
+
+Improved structure and fixed minor issues

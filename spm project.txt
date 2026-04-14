@@ -7,3 +7,4 @@ Features:
 - Set reminders
 - Track dosage
 - User-friendly interface
+- Notification system for reminders
